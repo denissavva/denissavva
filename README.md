@@ -11,7 +11,7 @@
 
 ## Тестирование Web и работа с логами
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sentry,grafana&theme=light)](https://skillicons.dev) <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="46" height="46"/>
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sentry,grafana&theme=light)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="46" height="46"/>
 
 ## Дополнительно
 
