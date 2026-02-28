@@ -1,16 +1,19 @@
-## Hi there 👋
+## Привет！👋
+Меня зовут Денис, я увлечённый тестировщик (API / Web)
 
-<!--
-**denissavva/denissavva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0077b6?style=flat&logo=Telegram&logoColor=white)](https://t.me/denissavinov) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-0ead69?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/message/Z6X4N75Y7ZREC1) [![Mail Badge](https://img.shields.io/badge/-Mail-f15025?style=flat&logo=Gmail&logoColor=white)](mailto:denissavinov@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Тестирование API и интеграций
+
+[![My Skills](https://skillicons.dev/icons?i=postman,kafka,docker&theme=light)](https://skillicons.dev)
+
+## Тестирование Web и работа с логами
+
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sentry,grafana&theme=light)](https://skillicons.dev) <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="46" height="46"/>
+
+## Дополнительно
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,gherkin,sublime,selenium&theme=light)](https://skillicons.dev)
+
