@@ -1,6 +1,6 @@
 ## Привет！👋
 Меня зовут Денис, я начинающий увлечённый тестировщик (API / Web).
-Владею сильной теоретической базой, практические навыки нарабатываю в ходе самостоятельной практики.
+Владею сильной теоретической базой, практические навыки активно нарабатываю в ходе самостоятельной практики.
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0077b6?style=flat&logo=Telegram&logoColor=white)](https://t.me/denissavinov) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-0ead69?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/message/Z6X4N75Y7ZREC1) [![Mail Badge](https://img.shields.io/badge/-Mail-f15025?style=flat&logo=Gmail&logoColor=white)](mailto:denissavinov@gmail.com)
 
